@@ -69,6 +69,4 @@ public class LoginScenarios extends BaseTest {
 		new loginPage(driver).enterUsername(param1);
 		new loginPage(driver).enterPassword(param2);
 	}
-	
-
 }
